@@ -1,0 +1,12 @@
+.categoty-item {
+    border: 1px solid transparent;
+    border-radius: 12px;
+    text-align: center;
+    transition: all 0.2s ease-in;
+    background: white;
+}
+
+.categoty-item:hover {
+    border: 1px solid orangered;
+    cursor: pointer;
+}

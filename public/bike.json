@@ -1,0 +1,44 @@
+[
+    {
+        "name": "ktm-125-sx-first1",
+        "brand": "ktm",
+        "photo": "https://i.ibb.co/hZmDQgB/ktm-125-sx-first1.jpg",
+        "price": "3,60,000",
+        "showroom": "hatibandha"
+    },
+    {
+        "name": "ktm-250-adventure-first1",
+        "brand": "ktm",
+        "photo": "https://i.ibb.co/QDwT5bg/ktm-250-adventure-first1.jpg",
+        "price": "2,40,000",
+        "showroom": "dhaka"
+    },
+    {
+        "name": "ktm-rc-125-first",
+        "brand": "ktm",
+        "photo": "https://i.ibb.co/n6sVgm0/ktm-rc-125-first1.jpg",
+        "price": "2,20,100",
+        "showroom": "lalmoirhat"
+    },
+    {
+        "name": "Lifan-K19-DD-Black",
+        "brand": "lifan",
+        "photo": "https://i.ibb.co/q765J5w/Lifan-K19-DD-Black.jpg",
+        "price": "3,60,050",
+        "showroom": "bogura"
+    },
+    {
+        "name": "Lifan-KPR-165-FI",
+        "brand": "lifan",
+        "photo": "https://i.ibb.co/wyCTz33/Lifan-KPR-165-FI.jpg",
+        "price": " 2,25,050",
+        "showroom": "rajshahi"
+    },
+    {
+        "name": "Lifan-X-Pect-150",
+        "brand": "lifan",
+        "photo": "https://i.ibb.co/phscdW6/Lifan-X-Pect-150.jpg",
+        "price": " 3,25,500",
+        "showroom": "Mirpur"
+    }
+]

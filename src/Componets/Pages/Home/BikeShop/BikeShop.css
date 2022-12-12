@@ -1,0 +1,14 @@
+.bike-item {
+    border: 1px solid transparent;
+    border-radius: 12px;
+    text-align: center;
+    transition: all 0.2s ease-in;
+    background: white;
+}
+
+.bike-item:hover {
+    border: 1px solid orangered;
+    cursor: pointer;
+}
+
+
